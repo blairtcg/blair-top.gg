@@ -4,7 +4,13 @@ Some over-engineered, mobile friendly top.gg description page, styles and conten
 
 ---
 
-to:do replace jsdelivr cdn with wsrv.nl instead
+to-do:
+
+- replace jsdelivr cdn with wsrv.nl webp q=80 instead (alrdy done in top.gg)
+- combine the mono and serif fonts to one line
+- removing @layer blair to prevent so many !important tags
+- remove -webkit-text-fill-color it doesnt help and redudant
+- remove decoding=async for images to improve perfs
 
 ### top.gg links
 
